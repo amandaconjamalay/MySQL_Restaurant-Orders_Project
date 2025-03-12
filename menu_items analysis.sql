@@ -1,5 +1,7 @@
 USE restaurant_db;
 
+# Exploring the menu_items table. 
+
 -- View the menu_items table.
 SELECT *
 FROM menu_items;
